@@ -1,0 +1,32 @@
+# FastAPI Core
+fastapi
+uvicorn[standard]
+pydantic[email]
+python-multipart
+python-dotenv
+httpx
+
+# Database
+SQLAlchemy
+asyncpg
+psycopg2-binary
+aiosqlite
+
+# Security & Authentication
+passlib[bcrypt]
+bcrypt
+python-jose[cryptography]
+
+# AI & OpenCV
+ultralytics
+opencv-python-headless
+numpy
+pillow
+
+# Cloud & API
+cloudinary
+google-generativeai
+
+# Testing
+pytest
+pytest-asyncio
